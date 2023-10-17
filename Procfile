@@ -1,0 +1,1 @@
+web: gunicorn mick-kavs-django-blog.wsgi
