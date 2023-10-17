@@ -1,1 +1,1 @@
-web: gunicorn mick-kavs-django-blog.wsgi
+web: gunicorn codestar.wsgi
